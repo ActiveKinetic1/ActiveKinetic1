@@ -17,4 +17,9 @@ See [Articles Index](./docs/articles/index.md) for the growing list of essays.
 
 ---
 
-This repo links to external research repositories (e.g., AMC peer review) and provides a timestamped, citable directory tree for the AK1 framework.
+## Archival and Citation
+
+This repository is preserved and timestamped through [Zenodo](https://zenodo.org/communities/activekinetic1/).  
+It provides a citable directory tree for the **Active Kinetic Framework (AK1)**, including associated research such as the Active Magnetic Cradle (AMC), AK1 generators, and AKI.  
+
+For DOI-based citations of specific releases, please see the [Zenodo records](https://zenodo.org/communities/activekinetic1/).
