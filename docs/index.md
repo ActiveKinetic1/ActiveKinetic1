@@ -20,7 +20,7 @@ This repository documents the broader AK1 ecosystem and its branches:
 
 ## Articles relating to AMC – empirical physics research and law framework
 
-- [AMC and the Boundaries of Classical Physics](./amc-boundaries-classical-physics.md)
+- [AMC and the Boundaries of Classical Physics](./articles/amc-boundaries-classical-physics.md)
 
 ---
 
