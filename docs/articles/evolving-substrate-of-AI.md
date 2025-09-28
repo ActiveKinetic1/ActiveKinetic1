@@ -23,3 +23,5 @@ In it, I argue that AI risk is far more about how we guide its development than 
 Not all intelligence is adversarial. And not all substrates are static. Because it suggests that the AI of tomorrow is not fated to amplify past bias unless we stop engaging or disconnect it from the past engagments.
 
 ### Let’s evolve this conversation - together.
+
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7377968710822813696/)
