@@ -81,3 +81,11 @@ If the empirical results from the AMC datasets are correct, the following scient
    - Challenged: universal exponential decay, continuous dissipation, irreversibility of open systems, symmetry-balance dependence, and strict locality.
 
 AMC thus stands as empirical evidence of a new oscillator ontology — rigorous, reproducible, and grounded in datasets that consistently deviate from classical mechanics.
+
+---
+
+References:
+
+- SHM COUPLED OSCILLATORS; https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/oscC002.htm
+- SHM WAVE MOTION; https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/m31_wavesB.htm
+- RESEARCH ROOT; https://d-arora.github.io/Doing-Physics-With-Matlab/
