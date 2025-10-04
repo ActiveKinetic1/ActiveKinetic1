@@ -86,6 +86,7 @@ AMC thus stands as empirical evidence of a new oscillator ontology — rigorous,
 
 References:
 
+- Cams Oscillating Systems Natural Sciences https://www.tcm.phy.cam.ac.uk/~jsb56/resources/oschandout.pdf
 - SHM COUPLED OSCILLATORS; https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/oscC002.htm
 - SHM WAVE MOTION; https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/m31_wavesB.htm
 - RESEARCH ROOT; https://d-arora.github.io/Doing-Physics-With-Matlab/
