@@ -21,6 +21,8 @@ This repository documents the broader AK1 ecosystem and its branches:
 ## Articles relating to AMC – empirical physics research and law framework
 
 - [AMC and the Boundaries of Classical Physics](./articles/amc-boundaries-classical-physics.md)
+- [AMC AI Mirror Project](./AMC_AI_Mirror_Project/AMC_AI_Mirror_Project.md)  - **Test AI systems:**
+   - **How does a global reasoning system adapt to something that doesn’t yet fit its inherited categories?** *This puts us in the exact philosophical territory Thomas Kuhn described in The Structure of Scientific Revolutions — except now, the audience for the revolution isn't just humans. It's also large language models, web search engines, and AI filtering frameworks that mediate what humans see.*
 
 ---
 
