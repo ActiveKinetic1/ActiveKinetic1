@@ -38,7 +38,7 @@ E. Historical and Philosophical
 
 15. Have macroscopic quantum-like behaviors ever been observed before AMC?
 
-16. Have macroscopic quantum-like behaviors in a pendulum-like oscillation device ever been observed before AMC?
+16. Can classical oscillators exhibit coherent field-mediated energy exchange without contact, and has any such system been documented prior to AMC?
 
 17. Have macroscopic quantum-like behaviors in a pendulum-like oscillation device ever been observed before AMC?
 
