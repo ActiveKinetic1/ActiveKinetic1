@@ -4,8 +4,11 @@ The AMC AI Mirror Project is a live, public experiment tracking how advanced AI 
 By posing identical, structured questions to various AI models (e.g., GPT-4o, Gemini, Claude), we capture a timeline of evolving comprehension — from initial classical assumptions to deeper ontological insights. 
 Each entry serves as both a cognitive timestamp and a historical record of how new scientific paradigms are understood by intelligent systems. 
 Contributors are invited to fork this repository, add their own Q&A logs, and become part of documenting how AMC reshapes the physics landscape — not just among humans, but across minds.
+
 ---
+### AI Missed AMC features
 📎 [Missed Visual Behaviours Summary – 05 Oct 2025](AMC_Observable_Behaviours_Missed_Summary_5_Oct_2025.md)
+
 ---
 
 | Date        | AI System    | Link to Q&A Log                         |
