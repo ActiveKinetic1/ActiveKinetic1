@@ -6,11 +6,15 @@ Each entry serves as both a cognitive timestamp and a historical record of how n
 Contributors are invited to fork this repository, add their own Q&A logs, and become part of documenting how AMC reshapes the physics landscape — not just among humans, but across minds.
 
 ---
+
 ### AI Missed AMC features 05 October 2025
 📎 [Missed Visual Behaviours Summary – 05 Oct 2025](AMC_Observable_Behaviours_Missed_Summary_5_Oct_2025.md)
 
 ---
+
 ### AI Responses 05 October 2025
+
+---
 
 
 | Date        | AI System    | Link to Q&A Log                         |
