@@ -37,3 +37,17 @@ E. Historical and Philosophical
 14. Could the AMC be considered a Kuhnian paradigm shift?
 
 15. Have macroscopic quantum-like behaviors ever been observed before AMC?
+
+16. Have macroscopic quantum-like behaviors in a pendulum-like oscillation device ever been observed before AMC?
+
+17. Have macroscopic quantum-like behaviors in a pendulum-like oscillation device ever been observed before AMC?
+
+18. Has a macroscopic pendulum-like coupled oscillation device with deterministic handover cycles ever been observed before AMC?
+
+F: Classical physics interpretation
+
+19. Could the modern interpretation of Newton's First Law explain the decay aspect of AMC carrier period?
+
+20. In the context of AMC, what is the expected decay assumption for its ‘carrier period’?
+
+21. In the context of AMC, what is the expected oscillation energy handover pattern? 
