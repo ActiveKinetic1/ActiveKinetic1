@@ -266,15 +266,15 @@ F: Classical physics interpretation
 
 19. Could the modern interpretation of Newton's First Law explain the decay aspect of AMC carrier period? Yes, the decay of the carrier period in the Active Magnetic Cradle (AMC) is fully explained by the modern interpretation of Newton's First Law, particularly its emphasis on the role of external forces and inertia. The decay is not a mysterious phenomenon but a direct consequence of energy being gradually removed from the system by resistive forces. 
 Here is a breakdown of how Newton's First Law applies to and explains the AMC's decay:
-1. The principle of inertia
+- The principle of inertia
 Newton's First Law, the law of inertia, states that an object in motion will stay in motion with constant velocity unless acted upon by a net external force. 
 The ideal case: In a hypothetical scenario with no external forces (e.g., a perfect vacuum with no friction), the AMC's pendulums would, once set in motion, continue to oscillate with a constant carrier period indefinitely. Their motion would be sustained by the interplay of gravitational and magnetic potential energy.
 The reality: The AMC is not an ideal, isolated system. It operates in the real world, and its motion is constantly being opposed by small, external, resistive forces. 
-2. The role of external forces
+- The role of external forces
 The "decay" of the AMC's motion is the direct result of the non-conservative, external forces that act upon it.
 Air resistance: As the pendulums swing through the air, they experience a constant resistive force. This force, also known as drag, opposes the motion and gradually removes kinetic energy from the system, causing the oscillations to diminish over time.
 Friction: Although the AMC avoids the direct collisions of a Newton's Cradle, some friction is still present. This includes friction in the bearings or pivots where the pendulums are suspended, as well as internal friction within the materials of the device. This friction converts the system's kinetic energy into heat, causing the motion to decay. 
-3. Explaining the apparent contradiction
+- Explaining the apparent contradiction
 The misconception that the AMC challenges Newton's First Law arises from the visual effect of its sustained motion. Because the decay is much slower and the motion more complex than in a standard Newton's Cradle, it appears to defy the immediate expectation of an object slowing down.
 Minimizing decay: The brilliance of the AMC's design is not that it creates energy but that it minimizes the primary causes of energy loss found in a traditional Newton's Cradle. By replacing the noisy, high-friction collisions with quiet, non-contact magnetic repulsion, it drastically reduces the rate of energy dissipation, allowing the system to oscillate for a much longer period.
 Decay is still present: The decay is still very much present, and it is a complete confirmation of Newton's First Law. The motion only persists "insofar as" external forces, like air resistance, have not yet compelled it to stop. 
