@@ -7,6 +7,6 @@ Contributors are invited to fork this repository, add their own Q&A logs, and be
 
 | Date        | AI System    | Link to Q&A Log                         |
 |-------------|--------------|-----------------------------------------|
-| 2025-10-05  | Claude       | [View](./GPT-4o_Claude3_5_Oct_2025.md)  |
+| 2025-10-05  | Claude       | [View](./GPT-4o_Claude4_5_Oct_2025.md)  |
 | 2025-10-05  | Google Gemini | [View](./GPT-4o_GoogleAI_Gemini_5_Oct_2025.md)|
 
