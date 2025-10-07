@@ -9,6 +9,7 @@ Contributors are invited to fork this repository, add their own Q&A logs, and be
 
 ### AI Missed AMC features 05 October 2025
 📎 [Missed Visual Behaviours Summary – 05 Oct 2025](AMC_Observable_Behaviours_Missed_Summary_5_Oct_2025.md)
+📎 [AI Interpretation Comparison: Google AI vs Gemini (October 2025)](AI_Interpretation_Comparison_Google_AI_vs_Gemini_(October_2025).md)
 
 ---
 
