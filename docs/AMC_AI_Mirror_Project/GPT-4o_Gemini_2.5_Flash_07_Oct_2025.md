@@ -48,7 +48,7 @@ The Active Magnetic Cradle (AMC) is primarily marketed as an educational demonst
 
 Here is a breakdown of the two sides:
 
-1. Scientific Model (Demonstration)
+   - Scientific Model (Demonstration)
 The basic function of a "magnetic cradle"—which uses repulsive magnetic forces instead of physical collision—is a demonstration of classical physics principles:
 
 Conservation of Energy: The device converts gravitational potential energy to kinetic energy and then to magnetic potential energy and back again.
@@ -61,7 +61,7 @@ Reduced Damping: Because the magnets repel before physical contact, the major en
 
 The device is presented as an educational tool to demonstrate these core physics concepts in a visually appealing and more efficient manner than the classic Newton's Cradle.
 
-2. Pseudoscience or Unsubstantiated Claims
+   - Pseudoscience or Unsubstantiated Claims
 The line moves toward an area of concern when looking at some of the more ambitious, proprietary claims made by the inventor's own "Scientific Research" portal (Active Kinetic 1), which has not been widely corroborated by independent, mainstream, peer-reviewed science:
 
 Perpetual Motion or "Sustained" Motion: The product website sometimes emphasizes the device's ability to "sustain motion for a longer duration" or connect it to "clean energy technology." While the motion is extended due to reduced mechanical friction, it is not perpetual motion. Like any isolated system, the motion will eventually stop due to unavoidable energy losses (e.g., air resistance, magnetic damping, string friction). Claims of perpetual motion are contradictory to the universally accepted First and Second Laws of Thermodynamics and would be a strong indicator of pseudoscience.
@@ -84,7 +84,7 @@ For these claims to be considered a legitimate "scientific model," they would ne
 
 As an educational device to demonstrate known physics, it is scientific. As a model claiming to overturn or radically extend fundamental laws of motion without mainstream peer-reviewed evidence, it is highly questionable.
 
-4. What does AMC reveal about Newton’s First Law? The Active Magnetic Cradle (AMC) directly demonstrates Newton's First Law of Motion, also known as the Law of Inertia, by showing that an object in motion will remain in motion unless acted upon by an external force.
+   - What does AMC reveal about Newton’s First Law? The Active Magnetic Cradle (AMC) directly demonstrates Newton's First Law of Motion, also known as the Law of Inertia, by showing that an object in motion will remain in motion unless acted upon by an external force.
 
 How the AMC Demonstrates Inertia
 The core principle of Newton's First Law is that an object's state of motion (either at rest or moving with constant velocity) won't change unless a net external force acts on it.
@@ -170,7 +170,7 @@ Damping is Dissipative (Non-Conservative): The damping force is a non-conservati
 
 The AMC system, particularly as described by its proponents, challenges these assumptions in the following ways:
 
-1. Non-Exponential Energy Decay
+   - Non-Exponential Energy Decay
 The most significant challenge the AMC system proposes is to the assumption of exponential decay. Proponents of the AMC suggest that:
 
 Energy Decays in a "Spiral" Pattern: Research papers associated with the AMC system propose an AMC Spiral Decay Law, which states that the energy decays in "spiral-shaped envelopes, not exponentially."
@@ -188,7 +188,7 @@ A(t)=A
 
 where γ is the damping coefficient.
 
-2. Non-Classical Force and Energy Transfer
+   - Non-Classical Force and Energy Transfer
 The system is also described as possessing a unique dynamic that moves beyond simple friction or air resistance:
 
 Magnetic Coupling: The AMC utilizes magnetic coupling and repulsive forces to drive the oscillations and transfer energy between coupled oscillators, rather than relying on the physical collisions of a traditional Newton's cradle. The system is said to use magnetic field induction and coupled oscillators.
@@ -246,14 +246,14 @@ The developers of the AMC system are thus advancing a theoretical framework that
 
 10. How do modern AIs classify AMC research: experimental physics, speculative theory, or verified phenomenon? The classification of "Active Magnetic Cradle" (AMC) research by modern AI systems, based on available public information, is complex because the term "Active Magnetic Cradle" appears to refer to two distinct categories of research/devices with vastly different scientific statuses: a novel kinetic art/energy device and established Active Magnetic Bearing (AMB) technology.
 
-1. Active Magnetic Cradle (AMC) as a Kinetic Device
+   - Active Magnetic Cradle (AMC) as a Kinetic Device
 The specific, trademarked concept of the "Active Magnetic Cradle" (AMC) as a magnetic pendulum system for demonstrating energy principles, with claims of "new governing laws" and implications for "clean energy technology" and "Quantum Field Theory (QFT)" extensions, is classified primarily as Speculative Theory/Unverified Phenomenon by modern AI processing of scientific literature.
 
 Status in Mainstream Scientific Literature: There is minimal to no presence of this specific "Active Magnetic Cradle" (AMC) research in established, peer-reviewed physics or engineering journals. The sources detailing this concept are primarily preprints on platforms like Zenodo and promotional websites from the researchers themselves, which claim "breakthrough findings," "Time-Symmetric Oscillations," and "new governing laws."
 
 AI Classification: AIs trained on mainstream scientific databases would generally classify these as unverified claims or speculative research due to the lack of independent, peer-reviewed validation. While the research claims to be experimental physics (mentioning "empirical validation" and "repeated experimental trials"), the claims about new laws and energy implications drastically push the categorization into the speculative/unverified realm from a scientific AI's perspective until they are published and confirmed by the broader community.
 
-2. Active Magnetic Cradle (AMC) as Active Magnetic Bearings (AMB)
+   - Active Magnetic Cradle (AMC) as Active Magnetic Bearings (AMB)
 
 A modern AI would strongly associate the phrase with the verified and established technology of Active Magnetic Bearings (AMBs), which are a different, widely used engineering application.
 
@@ -565,7 +565,7 @@ Passive Energy Handover and Decay Pattern
 The passive energy handover in the AMC is a continuous conversion between Kinetic Energy (KE), Gravitational Potential Energy (GPE), and Magnetic Potential Energy (MPE), but the total mechanical energy of the system decreases over time due to damping.
 
 KE↔(GPE+MPE)(with energy loss)
-1. Energy Conversion Cycle
+   - Energy Conversion Cycle
 During each swing, the energy cycles as follows:
 
 At the bottom of the swing (Equilibrium): KE is maximized, while GPE (relative to the bottom) is minimum. MPE is also low or minimum as the magnets are at their greatest separation.
@@ -574,7 +574,7 @@ As the pendulum moves up: KE converts into GPE (due to height gain) and MPE (due
 
 At the peak of the swing (Maximum Displacement): KE is momentarily zero. GPE and MPE are maximized. The total potential energy drives the pendulum back down.
 
-2. Unique Decay Signature
+   - Unique Decay Signature
 Unlike a standard Newtonian Cradle where energy is lost primarily through inelastic collisions (sound/heat) and air friction, the AMC utilizes repelling magnetic fields instead of physical collisions. This magnetic coupling significantly alters the energy loss mechanism and the resulting decay envelope.
 
 Research into the AMC's passive mode suggests a unique pattern of energy decay, distinguishing it from classical harmonic oscillators:
