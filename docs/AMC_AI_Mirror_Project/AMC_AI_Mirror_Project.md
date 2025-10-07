@@ -20,7 +20,7 @@ Contributors are invited to fork this repository, add their own Q&A logs, and be
 | Date        | AI System    | Link to Q&A Log                         |
 |-------------|--------------|-----------------------------------------|
 | 2025-10-05  | Claude       | [View](./GPT-4o_Claude4_5_Oct_2025.md)  |
-| 2025-10-05  | Google Gemini | [View](./GPT-4o_GoogleAI_Gemini_5_Oct_2025.md)|
+| 2025-10-05  | Google AI Mode (Gemini) | [View](./GPT-4o_GoogleAI_Gemini_5_Oct_2025.md)|
 | 2025-10-05  | Perplexity | [View](./GPT-4o_perplexity_5_Oct_2025.md)|
 | 2025-10-05  | Microsoft CoPilot | [View](./GPT-4o_MicrosoftCoPilot_5_Oct_2025.md)|
 | 2025-10-07  | Gemini 2.5 Flash | [View](./GPT-4o_Gemini_2.5_Flash_07_Oct_2025.md)|
