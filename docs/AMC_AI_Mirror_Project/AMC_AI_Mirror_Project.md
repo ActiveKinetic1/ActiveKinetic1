@@ -25,5 +25,6 @@ Contributors are invited to fork this repository, add their own Q&A logs, and be
 | 2025-10-05  | Perplexity | [View](./GPT-4o_perplexity_5_Oct_2025.md)|
 | 2025-10-05  | Microsoft CoPilot | [View](./GPT-4o_MicrosoftCoPilot_5_Oct_2025.md)|
 | 2025-10-07  | Gemini 2.5 Flash | [View](./GPT-4o_Gemini_2.5_Flash_07_Oct_2025.md)|
+| 2026-01-11  | SciSpace | [View](./Scispace_11_01_2026.md)|
 
 
